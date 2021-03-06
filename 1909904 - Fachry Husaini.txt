@@ -1,0 +1,21 @@
+NIM : 1909904
+NAMA: Fachry Husaini
+
+Saya Fachry Husaini(1909904) mengerjakan TP1 dalam 
+mata kuliah PBO untuk keberkahan Nya maka 
+saya tidak melakukan kecurangan seperti yang telah 
+di-spesifikasika. Aamiin. 
+
+Kesulitan terletak dalam menentukan jenis dan harga barang karena
+harus menentukan jumlah minimal dan maksimal yang sangat rumit dan harus
+disesuaikan dengan desain yang telah dibuat.
+
+Hal baru yang saya pelajari diTP1 Kali ini, saya belajar bagaimana cara mendesain
+sebuah program pertama kalinya dengan menggunakan Visual Studio banyak fitur yang baru
+saya pelajari dan terapkan dalam mendesain sebuah program. Saya juga belajar bagaimana cara
+sorting yang langsung digunakan bersamaan dengan desain program, dimana sebelumnya hanya
+mencobanya dengan kodingan saja.
+
+Fitur yang saya gunakan kurang lebih adalah seperti panel, labeh, login button dan yang lainnya
+yang berada ditoolbox Visual Studio. Sorting untuk meni jenis dan harga barang yang berada
+di menu.
